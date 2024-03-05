@@ -1,4 +1,4 @@
-# Project Name: Coral Inference and Imprinting Toolkit
+# Coral Inference and Imprinting Toolkit
 
 ## Description
 
